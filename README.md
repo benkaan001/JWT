@@ -2,7 +2,7 @@
 
 ## Description
 
-This backend applicaiton introduces the fundemental concepts behind JWT as well as how to build custom error handling, using 
+This backend application introduces the fundamental concepts behind JWT as well as how to build custom error handling, using 
 
 `json-web-token`
 
